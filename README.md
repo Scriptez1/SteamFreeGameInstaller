@@ -1,2 +1,205 @@
-# SteamFreeGameInstaller
-A bat program that installs free steam games. - Ücretsiz steam oyunları yükleyen bir bat programı.
+# 🎮 Steam Eski & Kaldırılmış Oyunlar Installer
+# 🇹🇷 TÜRKÇE
+
+Merhaba! 👋  
+Bu proje sayesinde, Steam'in **artık mağazada gözükmeyen, kaldırılmış ya da nostaljik** oyunlarını `steam://install/` komutu aracılığıyla **tek tıkla yükleyebilirsin!** 🚀
+
+---
+
+## 💡 Özellikler:
+
+✅ Tek tıklamayla oyunların kurulum sayfasını açar.  
+✅ 2 saniye aralıklarla otomatik geçiş yapar.  
+✅ Renkli, modern bir terminal deneyimi sunar.  
+✅ Eski oyunları aramakla uğraşmadan, `steam://install` komutlarıyla kolayca erişim sağlar.  
+
+---
+
+## 📋 Nasıl Kullanılır?
+
+1️⃣ `steam_install.bat` dosyasını indir.  
+2️⃣ Windows'ta çift tıkla çalıştır.  
+3️⃣ Steam otomatik olarak oyunların kurulum sayfalarını sırayla açacaktır! 🎯  
+
+---
+
+## 🧠 Oyun Listesi (Örnek):
+
+- `8-Bit Bayonetta`
+- `Age of Empires Online` (Servers Down)
+- `Arcane Saga Online`
+- `Arctic Combat`
+- `Arma 2: Free Version`
+- `Battle for Graxia`
+- `Brawl Busters`
+- `Bullet Run`
+- `Codename Gordon`
+- `District 187`
+- `Dungeon Fighter Online`
+- `F.E.A.R. Online` (Servers Down)
+- `FNaF World`
+- `Haunted Memories`
+- `MapleStory (US)`
+- `Pandora Saga`
+- `Renaissance Heroes`
+- `Rusty Hearts`
+- `Spacewar` (Test Game)
+- `TERA / TERA EU`
+- `Vanguard: Saga of Heroes`
+- `Wizardry Online`
+- `Forge`
+- `Warface`
+- `Vindictus`
+- `Dirty Bomb`
+- `Dragon Nest`
+- `Metro Conflict`
+- `Brick-Force (US)`
+- `Fiesta Online NA`
+- `Atlantica Online`
+- `Sin of a Dark Age`
+- `DC Universe Online`
+- `Chaos Heroes Online`
+- `Quantum Rush Online`
+- `Rise of Incarnates`
+- `Dragon's Prophet (EU)`
+- `Dead Island: Epidemic`
+- `Zombies Monsters Robots`
+- `Heroes and Titans: Online`
+- `Ragnarok Online (EU)`
+
+💾 **Liste zaman zaman güncellenir!**  
+Sen de öneri yapmak istersen → Pull Request açabilirsin! 😉
+
+---
+
+## ⚠️ Uyarı
+
+- Bazı oyunların sunucuları kapalıdır, sadece kurulum sayfasını açar.
+- Steam hesabınla giriş yapılı olmalıdır.
+- Bazı oyunlar çalışmayabilir çünkü artık Steam tarafından desteklenmiyor olabilir.
+
+---
+
+## 💎 Katkıda Bulun
+
+Eğer senin de bildiğin **kaldırılmış / nostaljik Steam oyunları** varsa, listeye eklemek için:  '''steam://install/oyun_kodu''' şeklinde **Pull Request** açabilirsin! 🧡  
+
+---
+
+## 🚀 Bağlantılar
+
+- 💾 Steam: [https://store.steampowered.com](https://store.steampowered.com)
+- 📜 Bu Proje: nostalji kokan oyunları yaşatır!
+
+---
+
+## 🎩 Teşekkürler
+
+> Bu listeyi hazırlayan herkese ve nostalji severlere selam olsun!  
+> Oyunlar sonsuza dek kalmasa da hatıralar hep kalır! 🕹️✨
+
+---
+
+# ENGLİSH
+
+# 🎮 Steam Removed & Legacy Games Installer
+
+Hello! 👋  
+With this project, you can **install removed, hidden, or nostalgic Steam games** with a single click using the `steam://install/` command! 🚀
+
+---
+
+## 💡 Features:
+
+✅ Opens the game's install page with a single click.  
+✅ Automatically switches between games every 2 seconds.  
+✅ Offers a colorful, modern terminal experience.  
+✅ No need to search for old games, just run and let `steam://install` do the magic!  
+
+---
+
+## 📋 How To Use:
+
+1️⃣ Download the `steam_install.bat` file.  
+2️⃣ Double-click to run it on Windows.  
+3️⃣ Steam will automatically open the installation pages for all games in sequence! 🎯  
+
+---
+
+## 🧠 Game List (Example):
+
+- `8-Bit Bayonetta`
+- `Age of Empires Online` (Servers Down)
+- `Arcane Saga Online`
+- `Arctic Combat`
+- `Arma 2: Free Version`
+- `Battle for Graxia`
+- `Brawl Busters`
+- `Bullet Run`
+- `Codename Gordon`
+- `District 187`
+- `Dungeon Fighter Online`
+- `F.E.A.R. Online` (Servers Down)
+- `FNaF World`
+- `Haunted Memories`
+- `MapleStory (US)`
+- `Pandora Saga`
+- `Renaissance Heroes`
+- `Rusty Hearts`
+- `Spacewar` (Test Game)
+- `TERA / TERA EU`
+- `Vanguard: Saga of Heroes`
+- `Wizardry Online`
+- `Forge`
+- `Warface`
+- `Vindictus`
+- `Dirty Bomb`
+- `Dragon Nest`
+- `Metro Conflict`
+- `Brick-Force (US)`
+- `Fiesta Online NA`
+- `Atlantica Online`
+- `Sin of a Dark Age`
+- `DC Universe Online`
+- `Chaos Heroes Online`
+- `Quantum Rush Online`
+- `Rise of Incarnates`
+- `Dragon's Prophet (EU)`
+- `Dead Island: Epidemic`
+- `Zombies Monsters Robots`
+- `Heroes and Titans: Online`
+- `Ragnarok Online (EU)`
+
+💾 **This list will be updated from time to time!**  
+If you want to suggest a new one → feel free to open a Pull Request! 😉
+
+---
+
+## ⚠️ Warning
+
+- Some games may have closed servers, the script only opens their install page.
+- You must be logged into your Steam account.
+- Some games might not work, as they are no longer supported by Steam.
+
+---
+
+## 💎 Contribute
+
+If you know any other **removed / nostalgic Steam games**, you can add them to the list by opening a Pull Request in this format:  '''steam://install/game_code''' 🧡  
+
+---
+
+## 🚀 Links
+
+- 💾 Steam: [https://store.steampowered.com](https://store.steampowered.com)  
+- 📜 This Project: keeping the nostalgia alive!
+
+---
+
+## 🎩 Special Thanks
+
+> Big shoutout to everyone who contributed to this list and to all the nostalgia lovers out there!  
+> Games may not last forever, but the memories surely do! 🕹️✨
+
+---
+
