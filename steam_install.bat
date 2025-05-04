@@ -212,7 +212,7 @@ timeout /t 2 >nul
 color 0A
 cls
 echo =============================================================================
-echo |-  TÜM OYUNLAR YÜKLENDİ! KRAL, AFİYETLE KUR  - SUCCSUCCESSFULLY COMPLETED -|
+echo |-  TÜM OYUNLAR YÜKLENDİ! KRAL, AFİYETLE KUR  - SUCCESSFULLY COMPLETED -|
 echo |-   Steam Library'ni kontrol et, şov başlasın! - Check your Steam Library -|
 echo =============================================================================
 pause
