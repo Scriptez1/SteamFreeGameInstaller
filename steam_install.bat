@@ -4,7 +4,7 @@ color 0A
 mode 100,30
 
 echo ============================================================================
-echo       STEAM OYUN YUKLEYICI v1.0 - STEAM GAME INSTALLER v1.0
+echo       STEAM OYUN YUKLEYICI v1.1 - STEAM GAME INSTALLER v1.1
 echo ============================================================================
 echo.
 timeout /t 2 >nul
