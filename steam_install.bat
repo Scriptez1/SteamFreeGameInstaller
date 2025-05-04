@@ -9,156 +9,204 @@ echo ===========================================================================
 echo.
 timeout /t 2 >nul
 
-echo - [1/38] 8-Bit Bayonetta
+echo - [1/50] 8-Bit Bayonetta
 start steam://install/567090
 timeout /t 2 >nul
 
-echo - [2/38] Age of Empires Online - Servers Down
+echo - [2/50] Age of Empires Online - Servers Down
 start steam://install/105430
 timeout /t 2 >nul
 
-echo - [3/38] Arcane Saga Online
+echo - [3/50] Arcane Saga Online
 start steam://install/238110
 timeout /t 2 >nul
 
-echo - [4/38] Arctic Combat
+echo - [4/50] Arctic Combat
 start steam://install/212370
 timeout /t 2 >nul
 
-echo - [5/38] Arma 2: Free Version
+echo - [5/50] Arma 2: Free Version
 start steam://install/107400
 timeout /t 2 >nul
 
-echo - [6/38] Battle for Graxia
+echo - [6/50] Battle for Graxia
 start steam://install/90530
 timeout /t 2 >nul
 
-echo - [7/38] Brawl Busters
+echo - [7/50] Brawl Busters
 start steam://install/109410
 timeout /t 2 >nul
 
-echo - [8/38] Bullet Run
+echo - [8/50] Bullet Run
 start steam://install/211880
 timeout /t 2 >nul
 
-echo - [9/38] Codename Gordon
+echo - [9/50] Codename Gordon
 start steam://install/92
 timeout /t 2 >nul
 
-echo - [10/38] District 187
+echo - [10/50] District 187
 start steam://install/221080
 timeout /t 2 >nul
 
-echo - [11/38] Dungeon Fighter Online
+echo - [11/50] Dungeon Fighter Online
 start steam://install/212220
 timeout /t 2 >nul
 
-echo - [12/38] F.E.A.R. Online - Servers Down
+echo - [12/50] F.E.A.R. Online - Servers Down
 start steam://install/223650
 timeout /t 2 >nul
 
-echo - [13/38] Fnaf World
+echo - [13/50] Fnaf World
 start steam://install/427920
 timeout /t 2 >nul
 
-echo - [14/38] Haunted Memories
+echo - [14/50] Haunted Memories
 start steam://install/241640
 timeout /t 2 >nul
 
-echo - [15/38] Maple Story (US-Version)
+echo - [15/50] Maple Story (US-Version)
 start steam://install/216150
 timeout /t 2 >nul
 
-echo - [16/38] Pandora Saga
+echo - [16/50] Pandora Saga
 start steam://install/106010
 timeout /t 2 >nul
 
-echo - [17/38] Renaissance Heroes
+echo - [17/50] Renaissance Heroes
 start steam://install/221790
 timeout /t 2 >nul
 
-echo - [18/38] Rusty Hearts
+echo - [18/50] Rusty Hearts
 start steam://install/36630
 timeout /t 2 >nul
 
-echo - [19/38] Spacewar
+echo - [19/50] Spacewar
 start steam://install/480
 timeout /t 2 >nul
 
-echo - [20/38] TERA
+echo - [20/50] TERA
 start steam://install/389300
 timeout /t 2 >nul
 
-echo - [21/38] TERA EU
+echo - [21/50] TERA EU
 start steam://install/323370
 timeout /t 2 >nul
 
-echo - [22/38] Vanguard: Saga of Heroes F2P
+echo - [22/50] Vanguard: Saga of Heroes F2P
 start steam://install/218210
 timeout /t 2 >nul
 
-echo - [23/38] Wizardry Online
+echo - [23/50] Wizardry Online
 start steam://install/221360
 timeout /t 2 >nul
 
-echo - [24/38] America's Army 3
+echo - [24/50] America's Army 3
 start steam://install/13140
 timeout /t 2 >nul
 
-echo - [25/38] Smashball
+echo - [25/50] Smashball
 start steam://install/17730
 timeout /t 2 >nul
 
-echo - [26/38] TrackMania Nations Forever
+echo - [26/50] TrackMania Nations Forever
 start steam://install/11020
 timeout /t 2 >nul
 
-echo - [27/38] Peggle Extreme
+echo - [27/50] Peggle Extreme
 start steam://install/3483
 timeout /t 2 >nul
 
-echo - [28/38] Forge
+echo - [28/50] Forge
 start steam://install/223390
 timeout /t 2 >nul
 
-echo - [29/38] Warface
+echo - [29/50] Warface
 start steam://install/291480
 timeout /t 2 >nul
 
-echo - [30/38] Vindictus
+echo - [30/50] Vindictus
 start steam://install/212160
 timeout /t 2 >nul
 
-echo - [31/38] Dirty Bomb
+echo - [31/50] Dirty Bomb
 start steam://install/333930
 timeout /t 2 >nul
 
-echo - [32/38] Dragon Nest
+echo - [32/50] Dragon Nest
 start steam://install/11610
 timeout /t 2 >nul
 
-echo - [33/38] Metro Conflict
+echo - [33/50] Metro Conflict
 start steam://install/356640
 timeout /t 2 >nul
 
-echo - [34/38] Brick-Force (US)
+echo - [34/50] Brick-Force (US)
 start steam://install/272490
 timeout /t 2 >nul
 
-echo - [35/38] Fiesta Online NA
+echo - [35/50] Fiesta Online NA
 start steam://install/300970
 timeout /t 2 >nul
 
-echo - [36/38] Atlantica Online
+echo - [36/50] Atlantica Online
 start steam://install/212240
 timeout /t 2 >nul
 
-echo - [37/38] Sin of a Dark Age
+echo - [37/50] Sin of a Dark Age
 start steam://install/223390
 timeout /t 2 >nul
 
-echo - [38/38] DC Universe Online
+echo - [38/50] DC Universe Online
 start steam://install/24200
+timeout /t 2 >nul
+
+echo - [39/50] PES 2016 myClub
+start steam://install/407250
+timeout /t 2 >nul
+
+echo - [40/50] Streets Of Kamurocho
+start steam://install/1368430
+timeout /t 2 >nul
+
+echo - [41/50] Golden Axed: A Cancelled Prototype
+start steam://install/1368460
+timeout /t 2 >nul
+
+echo - [42/50] Endless Zone
+start steam://install/1368450
+timeout /t 2 >nul
+
+echo - [43/50] Armor of Heroes
+start steam://install/1368440
+timeout /t 2 >nul
+
+echo - [44/50] SEGA Bass Fishing
+start steam://install/71240
+timeout /t 2 >nul
+
+echo - [45/50] Alpha Prime
+start steam://install/2590
+timeout /t 2 >nul
+
+echo - [46/50] Ricochet
+start steam://install/60
+timeout /t 2 >nul
+
+echo - [47/50] Tom Clancy's EndWar
+start steam://install/15620
+timeout /t 2 >nul
+
+echo - [48/50] RaceRoom Racing Experience
+start steam://install/211500
+timeout /t 2 >nul
+
+echo - [49/50] War Inc. Battlezone
+start steam://install/97100
+timeout /t 2 >nul
+
+echo - [50/50] Nosgoth
+start steam://install/200110
 timeout /t 2 >nul
 
 color 0A
