@@ -67,7 +67,7 @@ Bu proje sayesinde, Steam'in **artık mağazada gözükmeyen, kaldırılmış ya
 - `Heroes and Titans: Online`
 - `Ragnarok Online (EU)`
 ## [v1.1] - 2025-05-04
-### Added
+### Eklendi
 - Yeni eski/kaldırılmış Steam oyunları eklendi:
   - PES 2016 myClub (407250)
   - Arcane Saga Online (238110)
