@@ -66,6 +66,24 @@ Bu proje sayesinde, Steam'in **artık mağazada gözükmeyen, kaldırılmış ya
 - `Zombies Monsters Robots`
 - `Heroes and Titans: Online`
 - `Ragnarok Online (EU)`
+## [v1.1] - 2025-05-04
+### Added
+- Yeni eski/kaldırılmış Steam oyunları eklendi:
+  - PES 2016 myClub (407250)
+  - Arcane Saga Online (238110)
+  - Battle for Graxia (90530)
+  - Codename Gordon (92)
+  - Fnaf World (427920)
+  - Maple Story (US-version) (216150)
+  - Pandora Saga (106010)
+  - Renaissance Hero (221790)
+  - Rusty Hearts (36630)
+  - TERA EU (323370)
+  - Wizardry Online (221360)
+  - Streets Of Kamurocho (1368430)
+  - Golden Axed: A Cancelled Prototype (1368460)
+  - Endless Zone (1368450)
+  - Armor of Heroes (1368440)
 
 💾 **Liste zaman zaman güncellenir!**  
 Sen de öneri yapmak istersen → Pull Request açabilirsin! 😉
