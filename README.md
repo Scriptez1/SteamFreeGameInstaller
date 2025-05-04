@@ -25,69 +25,37 @@ Bu proje sayesinde, Steam'in **artık mağazada gözükmeyen, kaldırılmış ya
 
 ## 🧠 Oyun Listesi (Örnek):
 
-- `8-Bit Bayonetta`
-- `Age of Empires Online` (Servers Down)
-- `Arcane Saga Online`
-- `Arctic Combat`
-- `Arma 2: Free Version`
-- `Battle for Graxia`
-- `Brawl Busters`
-- `Bullet Run`
-- `Codename Gordon`
-- `District 187`
-- `Dungeon Fighter Online`
-- `F.E.A.R. Online` (Servers Down)
-- `FNaF World`
-- `Haunted Memories`
-- `MapleStory (US)`
-- `Pandora Saga`
-- `Renaissance Heroes`
-- `Rusty Hearts`
-- `Spacewar` (Test Game)
-- `TERA / TERA EU`
-- `Vanguard: Saga of Heroes`
-- `Wizardry Online`
-- `Forge`
-- `Warface`
-- `Vindictus`
-- `Dirty Bomb`
-- `Dragon Nest`
-- `Metro Conflict`
-- `Brick-Force (US)`
-- `Fiesta Online NA`
-- `Atlantica Online`
-- `Sin of a Dark Age`
-- `DC Universe Online`
-- `Chaos Heroes Online`
-- `Quantum Rush Online`
-- `Rise of Incarnates`
-- `Dragon's Prophet (EU)`
-- `Dead Island: Epidemic`
-- `Zombies Monsters Robots`
-- `Heroes and Titans: Online`
-- `Ragnarok Online (EU)`
-## [v1.2] - 2025-05-04
-------------------------------
-🔻 Silinen Toplam 19 Oyun:
-- Bullet Run
-- FNAF World
-- TERA
-- TERA EU
-- Wizardry Online
-- Brick-Force (US)
-- SEGA Bass Fishing
-- Ricochet
-- Tom Clancy's EndWar
-- War Inc. Battlezone
-- Nosgoth
-- Dragon Nest
-- Face of Mankind
-- Loadout
-- NosTale
-- Gotham City Impostors
-- Heroes & Generals
-- Champions Online
-- Minimum
+- [1/31] 8-Bit Bayonetta
+- [2/31] Age of Empires Online - Servers Down
+- [3/31] Arcane Saga Online
+- [4/31] Arctic Combat
+- [5/31] Arma 2: Free Version
+- [6/31] Battle for Graxia
+- [7/31] Brawl Busters
+- [8/31] Codename Gordon
+- [9/31] District 187
+- [10/31] Dungeon Fighter Online
+- [11/31] F.E.A.R. Online - Servers Down
+- [12/31] Haunted Memories
+- [13/31] Maple Story (US-Version)
+- [14/31] Pandora Saga
+- [15/31] Renaissance Heroes
+- [16/31] Rusty Hearts
+- [17/31] Spacewar
+- [18/31] Vanguard: Saga of Heroes F2P
+- [19/31] America's Army 3
+- [20/31] Smashball
+- [21/31] TrackMania Nations Forever
+- [22/31] Peggle Extreme
+- [23/31] Forge
+- [24/31] Warface
+- [25/31] Vindictus
+- [26/31] Dirty Bomb
+- [27/31] Metro Conflict
+- [28/31] Fiesta Online NA
+- [29/31] Atlantica Online
+- [30/31] DC Universe Online
+- [31/31] The Mighty Quest For Epic Loot
 
 🧼 Duplicate steam ID tespiti: Forge & Sin of a Dark Age
 ❌ Silinen: Sin of a Dark Age (duplicate of Forge)
