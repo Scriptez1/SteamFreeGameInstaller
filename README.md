@@ -187,6 +187,23 @@ With this project, you can **install removed, hidden, or nostalgic Steam games**
 - `Zombies Monsters Robots`
 - `Heroes and Titans: Online`
 - `Ragnarok Online (EU)`
+## [v1.1] - 2025-05-04
+### Added
+  - PES 2016 myClub (407250)
+  - Arcane Saga Online (238110)
+  - Battle for Graxia (90530)
+  - Codename Gordon (92)
+  - Fnaf World (427920)
+  - Maple Story (US-version) (216150)
+  - Pandora Saga (106010)
+  - Renaissance Hero (221790)
+  - Rusty Hearts (36630)
+  - TERA EU (323370)
+  - Wizardry Online (221360)
+  - Streets Of Kamurocho (1368430)
+  - Golden Axed: A Cancelled Prototype (1368460)
+  - Endless Zone (1368450)
+  - Armor of Heroes (1368440)
 
 💾 **This list will be updated from time to time!**  
 If you want to suggest a new one → feel free to open a Pull Request! 😉
